@@ -1,0 +1,1 @@
+window.APP_CONFIG={pin:"MDS",title:"MDS Voice Tournament"};
